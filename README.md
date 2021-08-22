@@ -1,2 +1,2 @@
 # NLP_Tutorral_Note
-Tutorral From Kaggle
+Tutorial From Kaggle
